@@ -21,7 +21,7 @@ Jarvis-The-Ultimate-Voice-Assistance/
 └── assets/                 # Images, icons, voice assets
 🛠️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/Deva-Raj-Shrivastava/Jarvis-The-Ultimate-Voice-Assistance.git
+git clone https://github.com/HAR368/Jarvis-The-Ultimate-Voice-Assistance.git
 cd Jarvis-The-Ultimate-Voice-Assistance
 2. Install Python 3.10.10
 Download from:
