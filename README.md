@@ -3,7 +3,7 @@
 JARVIS is a smart, voice-controlled personal assistant built with Python. Inspired by Iron Man’s JARVIS, this project responds to your voice, executes commands, and even engages in basic conversations through an interactive GUI.
 
 🌐 **Live on GitHub**:  
-[https://github.com/Deva-Raj-Shrivastava/Jarvis-The-Ultimate-Voice-Assistance](https://github.com/HAE368/Jarvis/)
+[https://github.com/HAR368/Jarvis](https://github.com/HAE368/Jarvis/)
 
 ---
 
@@ -109,4 +109,5 @@ This project is licensed under the **MIT License**.
 ---
 
 Let me know if you'd like this file downloaded as `README.md`, or if you want me to help push it to your GitHub repo.
+
 
